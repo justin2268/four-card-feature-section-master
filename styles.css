@@ -1,0 +1,51 @@
+/* Heading */
+body{
+    font-family: 'Poppins', sans-serif;
+    color:  hsl(229, 6%, 66%);
+    background-color: hsl(0, 0%, 98%);
+}
+h2 {
+    text-align: center; 
+    font-weight: 200;
+    color: hsl(234, 12%, 34%);
+}
+h1{
+    font-weight: 600;
+    text-align: center;
+    color: hsl(234, 12%, 34%);
+}
+p {
+    text-align: center;
+    font-size: 15px;
+    width: 40%;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+
+/* Card */
+.card{
+    background-color: white;
+    border-style: solid;
+    border-width: 7px 0 0;
+    border-radius: 5px;
+    width: 40%;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 10px;
+    
+}
+.red{
+    border-top-color: hsl(0, 78%, 62%);
+}
+.blue{
+    border-top-color: hsl(212, 86%, 64%);
+}
+.yellow{
+    border-top-color: hsl(34, 97%, 64%);
+}
+.green{
+    border-top-color: hsl(180, 62%, 55%);
+}
+/* https://www.youtube.com/watch?v=S7izQ5OjQmw */
